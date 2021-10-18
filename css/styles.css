@@ -64,6 +64,7 @@ body {
 
 .header__infoText {
   font-size: 48px;
+  width: 40vw;
 }
 
 .header__infoActions {
